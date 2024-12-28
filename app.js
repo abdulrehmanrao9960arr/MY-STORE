@@ -44,5 +44,5 @@ function addToCart(index) {
 
 // Function to navigate to the cart page
 function goToCart() {
-    window.location = "../CARTS/cart.html";
+    window.location = "./CARTS/cart.html";
 }

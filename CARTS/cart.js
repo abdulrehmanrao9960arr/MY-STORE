@@ -77,7 +77,7 @@
   
   // Function to navigate back to the home page
   function more() {
-      window.location = "../index.html";
+      window.location = "./index.html";
   }
   
   const totalPrice = document.querySelector(".transaction");
