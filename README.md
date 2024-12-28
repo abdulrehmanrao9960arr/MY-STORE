@@ -5,14 +5,9 @@ This web-based e-commerce platform allows users to browse a variety of products,
 
 ## Features
 - **Product Listing**: Display a range of products with images, titles, descriptions, and prices.
-- **Product Details**: View detailed information for each product, including specifications and reviews.
 - **Search & Filter**: Quickly find products using keyword search or apply filters by category, price range, or brand.
 - **Shopping Cart**: Add products, update quantities, or remove items with ease.
-- **Wishlist**: Save favorite products for later.
 - **Checkout Process**: Secure and streamlined checkout for completing purchases.
-- **User Authentication**: Sign up, log in, and manage user accounts.
-- **Order History**: View past purchases and track orders.
-- **Contact Page**: Reach out for support, feedback, or general inquiries.
 - **Responsive Design**: Fully optimized for viewing on desktops, tablets, and smartphones.
 
 ## Technology Stack
@@ -26,5 +21,5 @@ This web-based e-commerce platform allows users to browse a variety of products,
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/e-commerce-web-app.git
+   git clone https://github.com/abdulrehmanrao9960arr/MY-STORE
 
