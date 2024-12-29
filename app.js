@@ -43,6 +43,10 @@ function addToCart(index) {
 }
 
 // Function to navigate to the cart page
-function goToCart() {
+// function goToCart() {
+//     window.location = "./CARTS/cart.html";
+// }
+const btn = document.querySelector(".cart-btn");
+btn.addEventListener('click', function() {
     window.location = "./CARTS/cart.html";
-}
+});
